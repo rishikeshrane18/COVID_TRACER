@@ -84,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (JSONException e) {
             e.printStackTrace();
         }
+
     }
     public static void populate_india(String jsonData){
         try {
